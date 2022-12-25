@@ -1,0 +1,11 @@
+C:\Users\coman\Desktop\dersler\yemektarifi\yemektarifi\bin\Debug\yemektarifi.exe.config
+C:\Users\coman\Desktop\dersler\yemektarifi\yemektarifi\bin\Debug\yemektarifi.exe
+C:\Users\coman\Desktop\dersler\yemektarifi\yemektarifi\bin\Debug\yemektarifi.pdb
+C:\Users\coman\Desktop\dersler\yemektarifi\yemektarifi\obj\Debug\yemektarifi.csproj.AssemblyReference.cache
+C:\Users\coman\Desktop\dersler\yemektarifi\yemektarifi\obj\Debug\yemektarifi.csproj.SuggestedBindingRedirects.cache
+C:\Users\coman\Desktop\dersler\yemektarifi\yemektarifi\obj\Debug\yemektarifi.Form1.resources
+C:\Users\coman\Desktop\dersler\yemektarifi\yemektarifi\obj\Debug\yemektarifi.Properties.Resources.resources
+C:\Users\coman\Desktop\dersler\yemektarifi\yemektarifi\obj\Debug\yemektarifi.csproj.GenerateResource.cache
+C:\Users\coman\Desktop\dersler\yemektarifi\yemektarifi\obj\Debug\yemektarifi.csproj.CoreCompileInputs.cache
+C:\Users\coman\Desktop\dersler\yemektarifi\yemektarifi\obj\Debug\yemektarifi.exe
+C:\Users\coman\Desktop\dersler\yemektarifi\yemektarifi\obj\Debug\yemektarifi.pdb
